@@ -21,7 +21,7 @@ I am currently a forth-year PhD student at the University of Florida, advised by
 
 # 📝 Publications 
 
-- ** Lei Wang* **, Jieming Bian*, Letian Zhang, Chen Chen, Jie Xu, "[Taming Cross-Domain Representation Variance in Federated Prototype Learning with Heterogeneous Data Domains](https://proceedings.neurips.cc/paper_files/paper/2024/hash/a11e42a37c6bc926d6dc57e0cca0e825-Abstract-Conference.html)," Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2024.
+- ** Lei Wang\* **, Jieming Bian\*, Letian Zhang, Chen Chen, Jie Xu, "[Taming Cross-Domain Representation Variance in Federated Prototype Learning with Heterogeneous Data Domains](https://proceedings.neurips.cc/paper_files/paper/2024/hash/a11e42a37c6bc926d6dc57e0cca0e825-Abstract-Conference.html)," Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2024.
 - **Lei Wang**, Jieming Bian, Jie Xu, "[Adaptive User-Centric Entanglement Routing in Quantum Data Networks](https://ieeexplore.ieee.org/document/10630974)," IEEE International Conference on Distributed Computing Systems (**ICDCS**), 2024.
 - Jieming Bian, **Lei Wang**, Shaolei Ren, Jie Xu, "[CAFE: Carbon-Aware Federated Learning in Geographically Distributed Data Centers](https://dl.acm.org/doi/10.1145/3632775.3661970)," The 15th ACM International Conference on Future and Sustainable Energy Systems (**e-Energy**), 2024. (**Best Paper Nomination**)
 - **Lei Wang**, Jieming Bian, Jie Xu, "[Federated Learning with Instance-Dependent Noisy Label](https://ieeexplore.ieee.org/document/10447823)," IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2024.
