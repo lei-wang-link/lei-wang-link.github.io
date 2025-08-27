@@ -29,8 +29,9 @@ I am currently a forth-year PhD student at the University of Florida, advised by
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.08 - now*, University of Florida, Doctor of Philosophy (Ph.D.) in Electrical and Computer Engineering (GPA: 4.00/4.00).
+- *2021.09 - 2022.06*, University of California, Los Angeles (UCLA), Master of Science (M.S.) in Electrical and Computer Engineering (GPA: 3.93/4.00). 
+- *2016.09 - 2020.07*, University of Electronic Science and Technology of China (UESTC), Bachelor of Engineering (B.E.) in Electronic and Information Engineering (GPA: 3.97/4.00).
 
 # 💻 Internships
 - *2025.05 - 2025.08*, Machine Learning Scientist Intern, [PayPal](https://www.paypal.com/us/home), San Jose, Florida.
