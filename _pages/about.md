@@ -33,7 +33,7 @@ I am currently a forth-year PhD student at the University of Florida, advised by
 # 📖 Educations
 - *2022.08 - now*, **University of Florida**, Ph.D. in Electrical and Computer Engineering (GPA: 4.00/4.00).
 - *2021.09 - 2022.06*, **University of California, Los Angeles**, M.S. in Electrical and Computer Engineering (GPA: 3.93/4.00). 
-- *2016.09 - 2020.07*, **University of Electronic Science and Technology of China**, B.E. in Electronic and Information Engineering (GPA: 3.97/4.00).
+- *2016.09 - 2020.07*, **University of Electronic Science and Technology of China**, B.E. in Electronic and Information Engineering (GPA: 3.97/4.00, **National Scholarship**).
 
 # 💻 Internships
 - *2025.05 - 2025.08*, Machine Learning Scientist Intern, [PayPal](https://www.paypal.com/us/home), San Jose, CA.
