@@ -22,11 +22,7 @@ I am currently a forth-year PhD student at the University of Florida, advised by
 # 📝 Publications 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Lei Wang, Jieming Bian, Jie Xu, "[Federated Learning with Instance-Dependent Noisy Label](https://ieeexplore.ieee.org/document/10447823)," IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2024.
 
 # 📖 Educations
 - *2022.08 - now*, University of Florida, Doctor of Philosophy (Ph.D.) in Electrical and Computer Engineering (GPA: 4.00/4.00).
@@ -34,7 +30,7 @@ I am currently a forth-year PhD student at the University of Florida, advised by
 - *2016.09 - 2020.07*, University of Electronic Science and Technology of China (UESTC), Bachelor of Engineering (B.E.) in Electronic and Information Engineering (GPA: 3.97/4.00).
 
 # 💻 Internships
-- *2025.05 - 2025.08*, Machine Learning Scientist Intern, [PayPal](https://www.paypal.com/us/home), San Jose, Florida.
+- *2025.05 - 2025.08*, Machine Learning Scientist Intern, [PayPal](https://www.paypal.com/us/home), San Jose, CA.
 
 # 💬 Service
 ICCV 2025, KDD 2025, NeurIPS 2025, AAAI 2026, IEEE TCCN, IEEE SPL
