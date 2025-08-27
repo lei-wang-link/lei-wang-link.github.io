@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a forth-year PhD student at the University of Florida, advised by Prof. [Jie Xu](https://jiexu.ece.ufl.edu/).  Prior to that, I was a master student at the University of California, Los Angeles. My research interests focus on Edge Computing, Federated Learning and Large Langeuage Model Fine-tuning.
+I am currently a forth-year PhD student at the University of Florida, advised by Prof. [Jie Xu](https://jiexu.ece.ufl.edu/).  Prior to that, I was a master student at the University of California, Los Angeles. My research interests focus on Edge Computing, Federated Learning and Large Language Model Fine-tuning.
 
 # 📝 Publications 
 
