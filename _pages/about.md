@@ -39,4 +39,4 @@ I am currently a forth-year PhD student at the University of Florida, advised by
 - *2025.05 - 2025.08*, Machine Learning Scientist Intern, [PayPal](https://www.paypal.com/us/home), San Jose, CA.
 
 # 💬 Service
-ICCV 2025, KDD 2025, NeurIPS 2025, AAAI 2026, IEEE TCCN, IEEE SPL
+ICCV 2025, KDD 2025, NeurIPS 2025, AAAI 2026, IEEE TCCN
