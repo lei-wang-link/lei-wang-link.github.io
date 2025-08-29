@@ -27,48 +27,34 @@ I am currently a fourth-year PhD student in Electrical and Computer Engineering 
 # 📝 Publications 
 
 ### Conference Papers
-- `ICCV 2025`  [LoRA-FAIR: Federated LoRA Fine-Tuning with Aggregation and Initialization Refinement](https://arxiv.org/pdf/2411.14961)
-
-  Jieming Bian\*, **Lei Wang**\*, Letian Zhang, Jie Xu
-  
+- `ICCV 2025`  [LoRA-FAIR: Federated LoRA Fine-Tuning with Aggregation and Initialization Refinement](https://arxiv.org/pdf/2411.14961)  
+  Jieming Bian\*, **Lei Wang**\*, Letian Zhang, Jie Xu  
   *International Conference on Computer Vision (ICCV), 2025*
   
-- `NeurIPS 2024` [Taming Cross-Domain Representation Variance in Federated Prototype Learning with Heterogeneous Data Domains](https://proceedings.neurips.cc/paper_files/paper/2024/hash/a11e42a37c6bc926d6dc57e0cca0e825-Abstract-Conference.html)
-
-  **Lei Wang**\*, Jieming Bian\*, Letian Zhang, Chen Chen, Jie Xu
-
+- `NeurIPS 2024` [Taming Cross-Domain Representation Variance in Federated Prototype Learning with Heterogeneous Data Domains](https://proceedings.neurips.cc/paper_files/paper/2024/hash/a11e42a37c6bc926d6dc57e0cca0e825-Abstract-Conference.html)  
+  **Lei Wang**\*, Jieming Bian\*, Letian Zhang, Chen Chen, Jie Xu  
   *Annual Conference on Neural Information Processing Systems (NeurIPS), 2024*
 
-- `ICDCS 2024` [Adaptive User-Centric Entanglement Routing in Quantum Data Networks](https://ieeexplore.ieee.org/document/10630974)
-
-  **Lei Wang**, Jieming Bian, Jie Xu
-
+- `ICDCS 2024` [Adaptive User-Centric Entanglement Routing in Quantum Data Networks](https://ieeexplore.ieee.org/document/10630974)  
+  **Lei Wang**, Jieming Bian, Jie Xu  
   *IEEE International Conference on Distributed Computing Systems (ICDCS), 2024*
 
-- `e-Energy 2024` [CAFE: Carbon-Aware Federated Learning in Geographically Distributed Data Centers](https://dl.acm.org/doi/10.1145/3632775.3661970)
-
-  Jieming Bian, **Lei Wang**, Shaolei Ren, Jie Xu
-
+- `e-Energy 2024` [CAFE: Carbon-Aware Federated Learning in Geographically Distributed Data Centers](https://dl.acm.org/doi/10.1145/3632775.3661970)  
+  Jieming Bian, **Lei Wang**, Shaolei Ren, Jie Xu  
   *The 15th ACM International Conference on Future and Sustainable Energy Systems (e-Energy), 2024* (**Best Paper Nomination**)
 
-- `ICASSP 2024` [Federated Learning with Instance-Dependent Noisy Label](https://ieeexplore.ieee.org/document/10447823)
-
-  **Lei Wang**, Jieming Bian, Jie Xu
-
+- `ICASSP 2024` [Federated Learning with Instance-Dependent Noisy Label](https://ieeexplore.ieee.org/document/10447823)  
+  **Lei Wang**, Jieming Bian, Jie Xu  
    *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024*
 
 ### Journal Papers
   
-- `IEEE TON` [Quantum Entanglement Path Selection and Qubit Allocation via Adversarial Group Neural Bandits](https://ieeexplore.ieee.org/document/10811938),"
-
-  Yin Huang\*, **Lei Wang**\*, Jie Xu
-
+- `IEEE TON` [Quantum Entanglement Path Selection and Qubit Allocation via Adversarial Group Neural Bandits](https://ieeexplore.ieee.org/document/10811938)  
+  Yin Huang\*, **Lei Wang**\*, Jie Xu  
   *IEEE/ACM Transactions on Networking, vol. 33, no. 2, pp. 583-594, 2025*
 
-- `IEEE TSP` [Accelerating Hybrid Federated Learning Convergence Under Partial Participation](https://ieeexplore.ieee.org/document/10546478)
-
-  Jieming Bian, **Lei Wang**, Kun Yang, Cong Shen, Jie Xu
-
+- `IEEE TSP` [Accelerating Hybrid Federated Learning Convergence Under Partial Participation](https://ieeexplore.ieee.org/document/10546478)  
+  Jieming Bian, **Lei Wang**, Kun Yang, Cong Shen, Jie Xu  
   *IEEE Transactions on Signal Processing, vol. 72, pp. 3258-3271, 2024*
 
 # 📖 Educations
@@ -80,15 +66,15 @@ I am currently a fourth-year PhD student in Electrical and Computer Engineering 
 - *2025.05 - 2025.08*, Machine Learning Scientist Intern, [PayPal](https://www.paypal.com/us/home), San Jose, CA.
 
 # 💬 Service
-- **Conference Reviewer**:
-  AAAI 2026, NeurIPS 2025, ICCV 2025, KDD 2025, CVPR 2024
-  IEEE International Conference on Distributed Computing Systems (ICDCS) 2024,
-  IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS) 2023,
-  IEEE International Conference on Mobility, Sensing and Networking (MSN) 2023,
+- **Conference Reviewer**:  
+  AAAI 2026, NeurIPS 2025, ICCV 2025, KDD 2025, CVPR 2024  
+  IEEE International Conference on Distributed Computing Systems (ICDCS) 2024,  
+  IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS) 2023,  
+  IEEE International Conference on Mobility, Sensing and Networking (MSN) 2023,  
 
-- **Journal Reviewer**:
-  IEEE Transactions on Cognitive Communications and Networking (TCCN),
-  IEEE Signal Processing Letters (SPL),
-  IEEE Open Journal of the Communications Society (OJCOMS),
-  ACM Computing Surveys
+- **Journal Reviewer**:  
+  IEEE Transactions on Cognitive Communications and Networking (TCCN),  
+  IEEE Signal Processing Letters (SPL),  
+  IEEE Open Journal of the Communications Society (OJCOMS),  
+  ACM Computing Surveys  
 
