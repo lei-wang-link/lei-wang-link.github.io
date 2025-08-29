@@ -27,7 +27,7 @@ I am currently a fourth-year PhD student at the University of Florida, advised b
 - Yin Huang\*, **Lei Wang**\*, Jie Xu, "[Quantum Entanglement Path Selection and Qubit Allocation via Adversarial Group Neural Bandits](https://ieeexplore.ieee.org/document/10811938)," **IEEE/ACM Transactions on Networking**, vol. 33, no. 2, pp. 583-594, 2025.
 - **Lei Wang**, Jieming Bian, Jie Xu, "[Adaptive User-Centric Entanglement Routing in Quantum Data Networks](https://ieeexplore.ieee.org/document/10630974)," IEEE International Conference on Distributed Computing Systems (**ICDCS**), 2024.
 - Jieming Bian, **Lei Wang**, Shaolei Ren, Jie Xu, "[CAFE: Carbon-Aware Federated Learning in Geographically Distributed Data Centers](https://dl.acm.org/doi/10.1145/3632775.3661970)," The 15th ACM International Conference on Future and Sustainable Energy Systems (**e-Energy**), 2024. (**Best Paper Nomination**)
-- Jieming Bian, **Lei Wang**, Kun Yang, Cong Shen, Jie Xu, "[Accelerating Hybrid Federated Learning Convergence Under Partial Participation](https://ieeexplore.ieee.org/document/10546478)," **IEEE Transactions on Signal Processing**, vol. 72, pp. 3258-3271, Jun 2024.
+- Jieming Bian, **Lei Wang**, Kun Yang, Cong Shen, Jie Xu, "[Accelerating Hybrid Federated Learning Convergence Under Partial Participation](https://ieeexplore.ieee.org/document/10546478)," **IEEE Transactions on Signal Processing**, vol. 72, pp. 3258-3271, 2024.
 - **Lei Wang**, Jieming Bian, Jie Xu, "[Federated Learning with Instance-Dependent Noisy Label](https://ieeexplore.ieee.org/document/10447823)," IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2024.
 
 # 📖 Educations
