@@ -41,7 +41,7 @@ I am currently a fourth-year PhD student in Electrical and Computer Engineering 
 
 - `e-Energy 2024` [CAFE: Carbon-Aware Federated Learning in Geographically Distributed Data Centers](https://dl.acm.org/doi/10.1145/3632775.3661970)  
   Jieming Bian, **Lei Wang**, Shaolei Ren, Jie Xu  
-  *The 15th ACM International Conference on Future and Sustainable Energy Systems (e-Energy), 2024* (**Best Paper Nomination**)
+  *The 15th ACM International Conference on Future and Sustainable Energy Systems (ACM e-Energy), 2024* (**Best Paper Nomination**)
 
 - `ICASSP 2024` [Federated Learning with Instance-Dependent Noisy Label](https://ieeexplore.ieee.org/document/10447823)  
   **Lei Wang**, Jieming Bian, Jie Xu  
