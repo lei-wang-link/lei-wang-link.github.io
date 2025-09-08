@@ -67,13 +67,14 @@ I am currently a fourth-year PhD student in Electrical and Computer Engineering 
 
 # 💬 Service
 - **Conference Reviewer**:  
-  AAAI 2026, NeurIPS 2025, ICCV 2025, KDD 2025, CVPR 2024  
-  IEEE International Conference on Distributed Computing Systems (ICDCS) 2024,  
-  IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS) 2023,  
-  IEEE International Conference on Mobility, Sensing and Networking (MSN) 2023,  
+  AAAI 2026, NeurIPS 2025, ICCV 2025, KDD 2025, CVPR 2024, ICDCS 2024,
+  <!--IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS) 2023,-->
+  <!--IEEE International Conference on Mobility, Sensing and Networking (MSN) 2023,-->
 
 - **Journal Reviewer**:  
   IEEE Transactions on Cognitive Communications and Networking (TCCN),  
+  IEEE Internet of Things (IoT),  
+  IEEE Transactions on Circuits and Systems for Video Technology (TCSVT),  
   IEEE Signal Processing Letters (SPL),  
   IEEE Open Journal of the Communications Society (OJCOMS),  
   ACM Computing Surveys  
