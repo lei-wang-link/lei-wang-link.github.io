@@ -20,6 +20,7 @@ redirect_from:
 I am currently a fourth-year PhD student in Electrical and Computer Engineering at the University of Florida, advised by Prof. [Jie Xu](https://jiexu.ece.ufl.edu/).  Prior to that, I was a master student at the University of California, Los Angeles. My research interests focus on Edge Computing, Federated Learning and Large Language Model Fine-tuning.
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 Two papers are accepted by NeurIPS 2025.
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by ICCV 2025.
 - *2025.05*: &nbsp;🎉🎉 I will join PayPal GFP AI/ML team as a Machine Learning Scientist Intern this summer.
 - *2024.10*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2024.
@@ -27,6 +28,14 @@ I am currently a fourth-year PhD student in Electrical and Computer Engineering 
 # 📝 Publications 
 
 ### Conference Papers
+- `NeurIPS 2025` Adaptive LoRA Experts Allocation and Selection for Federated Fine-Tuning  
+  **Lei Wang**\*, Jieming Bian\*, Letian Zhang, Jie Xu  
+  *Annual Conference on Neural Information Processing Systems (NeurIPS), 2025*
+
+- `NeurIPS 2025` FedEL: Federated Elastic Learning for Heterogeneous Devices  
+  Letian Zhang, Bo Chen, Jieming Bian, **Lei Wang**, Jie Xu  
+  *Annual Conference on Neural Information Processing Systems (NeurIPS), 2024*
+
 - `ICCV 2025`  [LoRA-FAIR: Federated LoRA Fine-Tuning with Aggregation and Initialization Refinement](https://arxiv.org/pdf/2411.14961)  
   Jieming Bian\*, **Lei Wang**\*, Letian Zhang, Jie Xu  
   *International Conference on Computer Vision (ICCV), 2025*
