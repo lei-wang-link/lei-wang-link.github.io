@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a fourth-year PhD student in Electrical and Computer Engineering at the University of Florida, advised by Prof. [Jie Xu](https://jiexu.ece.ufl.edu/).  Prior to that, I was a master student at the University of California, Los Angeles. My research interests focus on Edge Computing, Federated Learning and Large Language Model Fine-tuning. Download my **CV** <a href="cv/LeiWang_CV.pdf"> here.
+I am currently a fourth-year PhD student in Electrical and Computer Engineering at the University of Florida, advised by Prof. [Jie Xu](https://jiexu.ece.ufl.edu/).  Prior to that, I was a master student at the University of California, Los Angeles. My research interests focus on Edge Computing, Federated Learning and Large Language Model Fine-tuning. Download my **CV** <a href="CV/LeiWang_CV.pdf"> here.
 
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 Two papers are accepted by NeurIPS 2025.
