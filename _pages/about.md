@@ -68,6 +68,19 @@ You can download my **CV** <a href="CV/LeiWang_CV.pdf"> here.
   Jieming Bian, **Lei Wang**, Kun Yang, Cong Shen, Jie Xu  
   *IEEE Transactions on Signal Processing, vol. 72, pp. 3258-3271, 2024*
 
+### Preprints
+- [FedALT: Federated Fine-Tuning through Adaptive Local Training with Rest-of-the-World LoRA](https://arxiv.org/abs/2503.11880)  
+  Jieming Bian\*, **Lei Wang**\*, Letian Zhang, Jie Xu
+  
+- [Prioritizing Modalities: Flexible Importance Scheduling in Federated Multimodal Learning](https://arxiv.org/abs/2408.06549)  
+  Jieming Bian, **Lei Wang**, Jie Xu
+
+- [A Survey on Parameter-Efficient Fine-Tuning for Foundation Models in Federated Learning](https://arxiv.org/abs/2504.21099)  
+  Jieming Bian, Yuanzhe Peng, **Lei Wang**, Yin Huang, Jie Xu
+
+- [Multimodal Federated Learning: A Survey through the Lens of Different FL Paradigms](https://arxiv.org/abs/2505.21792)  
+  Yuanzhe Peng, Jieming Bian, **Lei Wang**, Yin Huang, Jie Xu
+
 # 📖 Educations
 - *2022.08 - now*, **University of Florida**, Ph.D. in Electrical and Computer Engineering (GPA: 4.00/4.00).
 - *2022.08 - 2024.08*, **University of Miami**, Ph.D. in Electrical and Computer Engineering (GPA: 4.00/4.00, transferred to UF with the advisor).
