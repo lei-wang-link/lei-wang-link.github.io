@@ -30,11 +30,11 @@ You can download my **CV** <a href="CV/LeiWang_CV.pdf"> here.
 # 📝 Publications 
 
 ### Conference Papers
-- `NeurIPS 2025` Adaptive LoRA Experts Allocation and Selection for Federated Fine-Tuning  
+- `NeurIPS 2025` [Adaptive LoRA Experts Allocation and Selection for Federated Fine-Tuning](https://arxiv.org/abs/2509.15087)  
   **Lei Wang**\*, Jieming Bian\*, Letian Zhang, Jie Xu  
   *Annual Conference on Neural Information Processing Systems (NeurIPS), 2025*
 
-- `NeurIPS 2025` FedEL: Federated Elastic Learning for Heterogeneous Devices  
+- `NeurIPS 2025` [FedEL: Federated Elastic Learning for Heterogeneous Devices](https://arxiv.org/abs/2509.16902)  
   Letian Zhang, Bo Chen, Jieming Bian, **Lei Wang**, Jie Xu  
   *Annual Conference on Neural Information Processing Systems (NeurIPS), 2025*
 
