@@ -61,7 +61,7 @@ You can download my **CV** <a href="CV/LeiWang_CV.pdf"> here.
 
 - `ICASSP 2024` [Federated Learning with Instance-Dependent Noisy Label](https://ieeexplore.ieee.org/document/10447823)  
   **Lei Wang**, Jieming Bian, Jie Xu  
-   *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024*
+   *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024* (**Oral Presentation**)
 
 ### Journal Papers
   
