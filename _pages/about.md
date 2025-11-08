@@ -22,6 +22,7 @@ I am currently a fourth-year PhD student in Electrical and Computer Engineering 
 You can download my **CV** <a href="CV/LeiWang_CV.pdf"> here.
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025.
 - *2025.09*: &nbsp;🎉🎉 Two papers are accepted by NeurIPS 2025.
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by ICCV 2025.
 - *2025.05*: &nbsp;🎉🎉 I will join PayPal GFP AI/ML team as a Machine Learning Scientist Intern this summer.
@@ -30,6 +31,10 @@ You can download my **CV** <a href="CV/LeiWang_CV.pdf"> here.
 # 📝 Publications 
 
 ### Conference Papers
+- `AAAI 2025` [FedALT: Federated Fine-Tuning through Adaptive Local Training with Rest-of-the-World LoRA](https://arxiv.org/abs/2503.11880)  
+  Jieming Bian\*, **Lei Wang**\*, Letian Zhang, Jie Xu  
+  *The Association for the Advancement of Artificial Intelligence (AAAI), 2025*
+  
 - `NeurIPS 2025` [Adaptive LoRA Experts Allocation and Selection for Federated Fine-Tuning](https://arxiv.org/abs/2509.15087)  
   **Lei Wang**\*, Jieming Bian\*, Letian Zhang, Jie Xu  
   *Annual Conference on Neural Information Processing Systems (NeurIPS), 2025*
@@ -54,7 +59,7 @@ You can download my **CV** <a href="CV/LeiWang_CV.pdf"> here.
   Jieming Bian, **Lei Wang**, Shaolei Ren, Jie Xu  
   *The 15th ACM International Conference on Future and Sustainable Energy Systems (ACM e-Energy), 2024* (**Best Paper Nomination**)
 
-- `ICASSP 2024` [Federated Learning with Instance-Dependent Noisy Label](https://ieeexplore.ieee.org/document/10447823)  
+- `ICASSP 2024` [Federated Learning with Instance-Dependent Noisy Label](https://ieeexplore.ieee.org/document/10447823) 
   **Lei Wang**, Jieming Bian, Jie Xu  
    *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024*
 
@@ -68,10 +73,7 @@ You can download my **CV** <a href="CV/LeiWang_CV.pdf"> here.
   Jieming Bian, **Lei Wang**, Kun Yang, Cong Shen, Jie Xu  
   *IEEE Transactions on Signal Processing, vol. 72, pp. 3258-3271, 2024*
 
-### Preprints
-- [FedALT: Federated Fine-Tuning through Adaptive Local Training with Rest-of-the-World LoRA](https://arxiv.org/abs/2503.11880)  
-  Jieming Bian\*, **Lei Wang**\*, Letian Zhang, Jie Xu
-  
+### Preprints  
 - [Prioritizing Modalities: Flexible Importance Scheduling in Federated Multimodal Learning](https://arxiv.org/abs/2408.06549)  
   Jieming Bian, **Lei Wang**, Jie Xu
 
