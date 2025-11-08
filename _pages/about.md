@@ -31,7 +31,7 @@ You can download my **CV** <a href="CV/LeiWang_CV.pdf"> here.
 # 📝 Publications 
 
 ### Conference Papers
-- `AAAI 2025` [FedALT: Federated Fine-Tuning through Adaptive Local Training with Rest-of-the-World LoRA](https://arxiv.org/abs/2503.11880)  
+- `AAAI 2026` [FedALT: Federated Fine-Tuning through Adaptive Local Training with Rest-of-the-World LoRA](https://arxiv.org/abs/2503.11880)  
   Jieming Bian\*, **Lei Wang**\*, Letian Zhang, Jie Xu  
   *The Association for the Advancement of Artificial Intelligence (AAAI), 2026*
   
