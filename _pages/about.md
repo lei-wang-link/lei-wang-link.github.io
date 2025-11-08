@@ -59,7 +59,7 @@ You can download my **CV** <a href="CV/LeiWang_CV.pdf"> here.
   Jieming Bian, **Lei Wang**, Shaolei Ren, Jie Xu  
   *The 15th ACM International Conference on Future and Sustainable Energy Systems (ACM e-Energy), 2024* (**Best Paper Nomination**)
 
-- `ICASSP 2024` [Federated Learning with Instance-Dependent Noisy Label](https://ieeexplore.ieee.org/document/10447823) 
+- `ICASSP 2024` [Federated Learning with Instance-Dependent Noisy Label](https://ieeexplore.ieee.org/document/10447823)  
   **Lei Wang**, Jieming Bian, Jie Xu  
    *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024*
 
