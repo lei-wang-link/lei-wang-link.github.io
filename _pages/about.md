@@ -75,7 +75,7 @@ You can download my **CV** <a href="CV/LeiWang_CV.pdf"> here.
 
 ### Preprints  
 - [FedTreeLoRA: Reconciling Statistical and Functional Heterogeneity in Federated LoRA Fine-Tuning](https://arxiv.org/abs/2603.13282)  
-  Jieming Bian, **Lei Wang**, Letian Zhang, Jie Xu
+  Jieming Bian\*, **Lei Wang**\*, Letian Zhang, Jie Xu
   
 - [Prioritizing Modalities: Flexible Importance Scheduling in Federated Multimodal Learning](https://arxiv.org/abs/2408.06549)  
   Jieming Bian, **Lei Wang**, Jie Xu
