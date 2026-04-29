@@ -74,6 +74,9 @@ You can download my **CV** <a href="CV/LeiWang_CV.pdf"> here.
   *IEEE Transactions on Signal Processing, vol. 72, pp. 3258-3271, 2024*
 
 ### Preprints  
+- [FedTreeLoRA: Reconciling Statistical and Functional Heterogeneity in Federated LoRA Fine-Tuning](https://arxiv.org/abs/2603.13282)  
+  Jieming Bian, **Lei Wang**, Letian Zhang, Jie Xu
+  
 - [Prioritizing Modalities: Flexible Importance Scheduling in Federated Multimodal Learning](https://arxiv.org/abs/2408.06549)  
   Jieming Bian, **Lei Wang**, Jie Xu
 
@@ -94,7 +97,7 @@ You can download my **CV** <a href="CV/LeiWang_CV.pdf"> here.
 
 # 💬 Service
 - **Conference Reviewer**:  
-  ICML 2026, AAAI 2026, NeurIPS 2025, ICCV 2025, KDD 2025, CVPR 2024
+  NeurIPS 2026, ICML 2026, AAAI 2026, NeurIPS 2025, ICCV 2025, KDD 2025, CVPR 2024
 
 - **Journal Reviewer**:  
   IEEE Transactions on Cognitive Communications and Networking (TCCN),  
