@@ -33,7 +33,7 @@ You can download my **CV** <a href="CV/LeiWang_CV.pdf"> here.
 
 ### Conference Papers
 - `ICML 2026` [FedTreeLoRA: Reconciling Statistical and Functional Heterogeneity in Federated LoRA Fine-Tuning](https://arxiv.org/abs/2603.13282)  
-  Jieming Bian\*, **Lei Wang**\*, Letian Zhang, Jie Xu
+  Jieming Bian\*, **Lei Wang**\*, Letian Zhang, Jie Xu  
   *International Conference on Machine Learning (ICML), 2026*
   
 - `AAAI 2026` [FedALT: Federated Fine-Tuning through Adaptive Local Training with Rest-of-the-World LoRA](https://arxiv.org/abs/2503.11880)  
