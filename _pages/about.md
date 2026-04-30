@@ -22,6 +22,7 @@ I am currently a fourth-year PhD student in Electrical and Computer Engineering 
 You can download my **CV** <a href="CV/LeiWang_CV.pdf"> here.
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 One paper is accepted by ICML 2026.
 - *2025.11*: &nbsp;🎉🎉 One paper is accepted by AAAI 2026.
 - *2025.09*: &nbsp;🎉🎉 Two papers are accepted by NeurIPS 2025.
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by ICCV 2025.
@@ -31,6 +32,10 @@ You can download my **CV** <a href="CV/LeiWang_CV.pdf"> here.
 # 📝 Publications 
 
 ### Conference Papers
+- `ICML 2026` [FedTreeLoRA: Reconciling Statistical and Functional Heterogeneity in Federated LoRA Fine-Tuning](https://arxiv.org/abs/2603.13282)  
+  Jieming Bian\*, **Lei Wang**\*, Letian Zhang, Jie Xu
+  *International Conference on Machine Learning (ICML), 2026*
+  
 - `AAAI 2026` [FedALT: Federated Fine-Tuning through Adaptive Local Training with Rest-of-the-World LoRA](https://arxiv.org/abs/2503.11880)  
   Jieming Bian\*, **Lei Wang**\*, Letian Zhang, Jie Xu  
   *The Association for the Advancement of Artificial Intelligence (AAAI), 2026*
@@ -74,9 +79,6 @@ You can download my **CV** <a href="CV/LeiWang_CV.pdf"> here.
   *IEEE Transactions on Signal Processing, vol. 72, pp. 3258-3271, 2024*
 
 ### Preprints  
-- [FedTreeLoRA: Reconciling Statistical and Functional Heterogeneity in Federated LoRA Fine-Tuning](https://arxiv.org/abs/2603.13282)  
-  Jieming Bian\*, **Lei Wang**\*, Letian Zhang, Jie Xu
-  
 - [Prioritizing Modalities: Flexible Importance Scheduling in Federated Multimodal Learning](https://arxiv.org/abs/2408.06549)  
   Jieming Bian, **Lei Wang**, Jie Xu
 
