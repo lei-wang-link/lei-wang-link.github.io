@@ -22,7 +22,7 @@ I am currently a fourth-year PhD student in Electrical and Computer Engineering 
 You can download my **CV** <a href="CV/LeiWang_CV.pdf"> here.
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉🎉 I will join Meta Facebook Feed team as a PhD Software Engineer Intern this summer.
+- *2026.05*: &nbsp;🎉🎉 I will join Meta FB Feed team as a Software Engineer (Machine Learning) PhD Intern this summer.
 - *2026.05*: &nbsp;🎉🎉 One paper is accepted by ICML 2026.
 - *2025.11*: &nbsp;🎉🎉 One paper is accepted by AAAI 2026.
 - *2025.09*: &nbsp;🎉🎉 Two papers are accepted by NeurIPS 2025.
@@ -96,7 +96,7 @@ You can download my **CV** <a href="CV/LeiWang_CV.pdf"> here.
 - *2016.09 - 2020.07*, **University of Electronic Science and Technology of China**, B.E. in Electronic and Information Engineering (GPA: 3.97/4.00).
 
 # 💻 Internships
-- *2026.05 - 2026.08*, PhD Software Engineer Intern, [Meta](https://www.meta.com/about/company-info), Menlo Park, CA.
+- *2026.05 - 2026.08*, Software Engineer (Machine Learning) PhD Intern, [Meta](https://www.meta.com/about/company-info), Menlo Park, CA.
 - *2025.05 - 2025.08*, Machine Learning Scientist Intern, [PayPal](https://www.paypal.com/us/home), San Jose, CA.
 
 # 💬 Service
