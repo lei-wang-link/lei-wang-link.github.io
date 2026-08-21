@@ -22,7 +22,8 @@ I am currently a fourth-year PhD student in Electrical and Computer Engineering 
 You can download my **CV** <a href="CV/LeiWang_CV.pdf"> here.
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉🎉 I will join Meta FB Feed team as a Software Engineer (Machine Learning) PhD Intern this summer.
+- *2026.08*: &nbsp;🎉🎉 One paper is accepted by ICML 2026.
+- *2026.05*: &nbsp;🎉🎉 I will join Meta FB Feed Notif Personalization team as a Software Engineer (Machine Learning) PhD Intern this summer.
 - *2026.05*: &nbsp;🎉🎉 One paper is accepted by ICML 2026.
 - *2025.11*: &nbsp;🎉🎉 One paper is accepted by AAAI 2026.
 - *2025.09*: &nbsp;🎉🎉 Two papers are accepted by NeurIPS 2025.
@@ -33,6 +34,10 @@ You can download my **CV** <a href="CV/LeiWang_CV.pdf"> here.
 # 📝 Publications 
 
 ### Conference Papers
+- `EMNLP 2026` [Breaking the Structural Identity: Personalized Federated LoRA Fine-tuning under Rank Heterogeneity]  
+  **Lei Wang**\*, Jieming Bian\*, Letian Zhang, Jie Xu  
+  *Conference on Empirical Methods in Natural Language Processing (EMNLP), 2026*
+  
 - `ICML 2026` [FedTreeLoRA: Reconciling Statistical and Functional Heterogeneity in Federated LoRA Fine-Tuning](https://arxiv.org/abs/2603.13282)  
   Jieming Bian\*, **Lei Wang**\*, Letian Zhang, Jie Xu  
   *International Conference on Machine Learning (ICML), 2026*
