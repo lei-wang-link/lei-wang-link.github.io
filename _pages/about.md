@@ -29,7 +29,6 @@ You can download my **CV** <a href="CV/LeiWang_CV.pdf"> here.
 - *2025.09*: &nbsp;🎉🎉 Two papers are accepted by NeurIPS 2025.
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by ICCV 2025.
 - *2025.05*: &nbsp;🎉🎉 I will join PayPal GFP AI/ML team as a Machine Learning Scientist Intern this summer.
-- *2024.10*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2024.
 
 # 📝 Publications 
 
