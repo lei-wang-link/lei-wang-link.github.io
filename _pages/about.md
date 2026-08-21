@@ -33,7 +33,7 @@ You can download my **CV** <a href="CV/LeiWang_CV.pdf"> here.
 # 📝 Publications 
 
 ### Conference Papers
-- `EMNLP 2026` [Breaking the Structural Identity: Personalized Federated LoRA Fine-tuning under Rank Heterogeneity]  
+- `EMNLP 2026` Breaking the Structural Identity: Personalized Federated LoRA Fine-tuning under Rank Heterogeneity
   **Lei Wang**\*, Jieming Bian\*, Letian Zhang, Jie Xu  
   *Conference on Empirical Methods in Natural Language Processing (EMNLP), 2026*
   
