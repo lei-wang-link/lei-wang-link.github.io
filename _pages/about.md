@@ -31,6 +31,9 @@ You can download my **CV** <a href="CV/LeiWang_CV.pdf"> here.
 - *2025.05*: &nbsp;🎉🎉 I will join PayPal GFP AI/ML team as a Machine Learning Scientist Intern this summer.
 
 # 📝 Publications 
+<div style="font-size:90%; color:#666; margin-bottom:10px;">
+\* indicates equal contribution
+</div>
 
 ### Conference Papers
 - `EMNLP 2026` Breaking the Structural Identity: Personalized Federated LoRA Fine-tuning under Rank Heterogeneity  
