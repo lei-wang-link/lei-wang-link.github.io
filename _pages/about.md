@@ -108,7 +108,7 @@ You can download my **CV** <a href="CV/LeiWang_CV.pdf"> here.
 
 # 💬 Service
 - **Conference Reviewer**:  
-  NeurIPS 2026, ICML 2026, AAAI 2026, NeurIPS 2025, ICCV 2025, KDD 2025, CVPR 2024
+  AAAI (2027, 2026), NeurIPS (2026, 2025), ICML 2026, ICCV 2025, KDD 2025, CVPR 2024
 
 - **Journal Reviewer**:  
   IEEE Transactions on Cognitive Communications and Networking (TCCN),  
@@ -116,5 +116,6 @@ You can download my **CV** <a href="CV/LeiWang_CV.pdf"> here.
   IEEE Transactions on Circuits and Systems for Video Technology (TCSVT),  
   IEEE Signal Processing Letters (SPL),  
   IEEE Open Journal of the Communications Society (OJCOMS),  
-  ACM Computing Surveys  
+  IEEE Transactions on Green Communications and Networking (TGCN),  
+  ACM Computing Surveys 
 
