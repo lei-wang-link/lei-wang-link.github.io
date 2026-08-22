@@ -66,7 +66,7 @@ You can download my **CV** <a href="CV/LeiWang_CV.pdf"> here.
 
 - `ICDCS 2024` [Adaptive User-Centric Entanglement Routing in Quantum Data Networks](https://ieeexplore.ieee.org/document/10630974)  
   **Lei Wang**, Jieming Bian, Jie Xu  
-  *IEEE International Conference on Distributed Computing Systems (ICDCS), 2024*
+  *IEEE International Conference on Distributed Computing Systems (ICDCS), 2024* (**Oral Presentation**)
 
 - `e-Energy 2024` [CAFE: Carbon-Aware Federated Learning in Geographically Distributed Data Centers](https://dl.acm.org/doi/10.1145/3632775.3661970)  
   Jieming Bian, **Lei Wang**, Shaolei Ren, Jie Xu  
